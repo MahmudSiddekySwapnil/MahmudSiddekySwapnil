@@ -4,7 +4,7 @@
 # Hi there! 👋
 
 ### I am Mahmud Siddeky
-- 💼 [Software Engineer]
+- 💼 Software Engineer
 - 🌱 I’m currently learning [Advanced Linux,Python]
 - 💬 Ask me about [PHP, Laravel, JavaScript, Python]
 - 📫 Reach me at: [swapnilmahmud.jobs@gmail.com]
@@ -28,8 +28,5 @@
 
 ## 🎯 Current Goals
 - Transition into DevOps
-- Expand my knowledge in Machine Learning
-- Build innovative projects in [Your Area of Interest]
-
 ---
 ⭐️ From [MahmudSiddekySwapnil](https://github.com/MahmudSiddekySwapnil)
