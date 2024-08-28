@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning [Advanced Linux,Python]
 - 💬 Ask me about [PHP, Laravel, JavaScript, Python]
 - 📫 Reach me at: [swapnilmahmud.jobs@gmail.com]
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmudSiddekySwapnil&show_icons=true&theme=radical)
 
 ## 🔧 Technologies & Tools
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
