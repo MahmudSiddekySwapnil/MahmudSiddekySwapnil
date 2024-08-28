@@ -33,8 +33,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MahmudSiddekySwapnil)
 
-## 📊 GitHub Activity
-![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmudSiddekySwapnil&theme=react-dark)
+## 🏅 Profile Badges
+![Coffee Lover](https://img.shields.io/badge/Coffee-lover-%23FFDD00?style=for-the-badge)
+
 
 ---
 ⭐️ From [MahmudSiddekySwapnil](https://github.com/MahmudSiddekySwapnil)
