@@ -33,5 +33,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MahmudSiddekySwapnil)
 
+## 📊 GitHub Activity
+![Your GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=YourUsername&theme=react-dark)
+
 ---
 ⭐️ From [MahmudSiddekySwapnil](https://github.com/MahmudSiddekySwapnil)
