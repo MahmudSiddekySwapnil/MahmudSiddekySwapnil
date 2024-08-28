@@ -15,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 
 
@@ -29,8 +30,6 @@
 - Transition into DevOps
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmudSiddekySwapnil&show_icons=true&theme=radical)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MahmudSiddekySwapnil)
 
