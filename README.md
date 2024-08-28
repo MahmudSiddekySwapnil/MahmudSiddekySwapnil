@@ -33,8 +33,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MahmudSiddekySwapnil)
 
-## 🏅 Profile Badges
-![Coffee Lover](https://img.shields.io/badge/Coffee-lover-%23FFDD00?style=for-the-badge)
+
 
 
 ---
