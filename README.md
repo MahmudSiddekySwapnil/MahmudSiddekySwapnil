@@ -5,8 +5,8 @@
 
 ### I am Mahmud Siddeky
 - 💼 Software Engineer
-- 🌱 I’m currently learning [Advanced Linux,Python]
-- 💬 Ask me about [PHP, Laravel, JavaScript, Python]
+- 🌱 I’m currently learning [Advanced Linux,DevOps]
+- 💬 Ask me about [PHP, Laravel, JavaScript]
 - 📫 Reach me at: [swapnilmahmud.jobs@gmail.com]
 
 ## 🔧 Technologies & Tools
