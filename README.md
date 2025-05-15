@@ -29,7 +29,7 @@
 ## 🎯 Current Goals
 - Transition into DevOps
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmudSiddekySwapnil&show_icons=true&theme=radical)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MahmudSiddekySwapnil)
 
