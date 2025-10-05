@@ -12,3 +12,13 @@ To obtain a challenging role as a **Software Engineer** where I can leverage my 
 My goal is to build **scalable, secure, and high-performance systems** using **Laravel**, **React.js**, **AWS**, and **CI/CD automation**, while continuously improving in **cloud technologies** and **DevOps practices**.
 
 ---
+
+## 💡 Areas of Expertise
+- **Backend Development:** PHP, Laravel, Lumen  
+- **Frontend Development:** React.js, Vue.js, Bootstrap  
+- **Database Design & Optimization:** MySQL, Oracle  
+- **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD, Nginx, Apache  
+- **System Architecture:** Repository & Service Pattern, Microservices  
+- **Collaboration & Agile:** Jira, ClickUp, Git, Code Review, Requirement Analysis  
+
+---
