@@ -15,7 +15,7 @@ My goal is to build **scalable, secure, and high-performance systems** using **L
 
 ## 💡 Areas of Expertise
 - **Backend Development:** PHP, Laravel, Lumen  
-- **Frontend Development:** React.js, Vue.js, Bootstrap  
+- **Frontend Development:** React.js,  Bootstrap  
 - **Database Design & Optimization:** MySQL, Oracle  
 - **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD, Nginx, Apache  
 - **System Architecture:** Repository & Service Pattern, Microservices  
@@ -38,5 +38,14 @@ My goal is to build **scalable, secure, and high-performance systems** using **L
 - Career Essentials in GitHub (Microsoft & LinkedIn)  
 - Career Essentials in Software Development  
 - Practical GitHub Project Management & Collaboration  
+
+---
+
+## 🛠️ Tech Stack
+**Languages:** PHP, JavaScript, SQL, Shell  
+**Frameworks:** Laravel, Lumen, React.js
+**Databases:** MySQL, Oracle  
+**DevOps Tools:** AWS, Docker, Jenkins, CI/CD  
+**Other Tools:** Postman, MySQL Workbench, PhpStorm, VS Code  
 
 ---
