@@ -33,3 +33,10 @@ My goal is to build **scalable, secure, and high-performance systems** using **L
 -  Delivered client presentations & technical requirement analysis.
 
 ---
+## 🧠 Certifications & Training
+- AWS Security Fundamentals (Second Edition)  
+- Career Essentials in GitHub (Microsoft & LinkedIn)  
+- Career Essentials in Software Development  
+- Practical GitHub Project Management & Collaboration  
+
+---
