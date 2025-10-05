@@ -22,3 +22,14 @@ My goal is to build **scalable, secure, and high-performance systems** using **L
 - **Collaboration & Agile:** Jira, ClickUp, Git, Code Review, Requirement Analysis  
 
 ---
+## 🏆 Benchmarks & Milestones
+- Developed **Amortization Loan Management System** ensuring precise repayment schedules.  
+- Integrated **multiple payment gateways** (bKash, Nagad, Pathao Pay, etc.) for seamless transactions.  
+-  Optimized **MySQL performance** for large-scale financial systems.  
+- Containerized services using **Docker**, improving deployment flow.  
+- Automated deployments with **CI/CD (Jenkins)** to reduce downtime.  
+- Deployed and scaled systems on **AWS**, enhancing reliability.  
+- Applied **Repository & Service Patterns** for maintainable architecture.  
+-  Delivered client presentations & technical requirement analysis.
+
+---
