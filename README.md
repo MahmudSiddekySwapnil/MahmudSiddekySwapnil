@@ -56,4 +56,4 @@ My goal is to build **scalable, secure, and high-performance systems** using **L
 
 ---
 ## 💬 Let’s Connect  
-If you’re interested in collaboration, backend architecture, or fintech systems- feel free to reach out!  
+If you’re interested in collaboration, backend architecture, or fintech systems- Feel free to reach out!  
