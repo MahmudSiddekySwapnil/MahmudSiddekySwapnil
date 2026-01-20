@@ -15,7 +15,7 @@ My goal is to build **scalable, secure and high-performance systems** using **La
 
 ## 💡 Areas of Expertise
 - **Backend Development:** PHP, Laravel, Lumen  
-- **Frontend Development:** React.js,  Bootstrap  
+- **Frontend Development:** React.js, Bootstrap  
 - **Database Design & Optimization:** MySQL, Oracle  
 - **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD, Nginx, Apache  
 - **System Architecture:** Repository & Service Pattern, Microservices  
