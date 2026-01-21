@@ -30,7 +30,7 @@ My goal is to build **scalable, secure and high-performance systems** using **La
 - Automated deployments with **CI/CD (Jenkins)** to reduce downtime.  
 - Deployed and scaled systems on **AWS**, enhancing reliability.  
 - Applied **Repository & Service Patterns** for maintainable architecture.  
-- Delivered client presentations  & technical requirement analysis.
+- Delivered client presentations & technical requirement analysis.
 
 ---
 ## 🧠 Certifications & Training
