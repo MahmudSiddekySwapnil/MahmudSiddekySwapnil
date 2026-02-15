@@ -49,7 +49,6 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 **Other Tools:** Postman, MySQL Workbench, PhpStorm, VS Code  
 
 ---
-
 ## 🤝 Brands I’ve Worked With
 **Analyzen**, **Padakhep**, **ShuroPay**, **bKash**, **Nagad**, **Pocket**, **Pathao Pay**,  
 **DBBL**, **MTBL**, **Meghna Bank**, **Agrani Bank**,  **BD Finance**, **Islamic Wallet**, **InfoLink**  
