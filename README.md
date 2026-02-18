@@ -33,6 +33,7 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 - Applied **Repository & Service Patterns** for maintainable architecture.  
 - Delivered client presentations & technical requirement analysis.
 
+
 ---
 ## 🧠 Certifications & Training
 - AWS Security Fundamentals (Second Edition)  
