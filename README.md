@@ -22,6 +22,7 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 - **System Architecture:** Repository & Service Pattern, Microservices  
 - **Collaboration & Agile:** Jira, ClickUp, Git, Code Review, Requirement Analysis  
 
+
 ---
 ## 🏆 Benchmarks &  Milestones
 - Developed **Amortization Loan Management System** ensuring precise repayment schedules.  
