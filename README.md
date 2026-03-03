@@ -15,6 +15,7 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 
 ---
 
+
 ## 💡 Areas of Expertise
 - **Backend Development:** PHP, Laravel, Lumen  
 - **Frontend Development:** React.js, Bootstrap  
