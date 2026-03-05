@@ -31,7 +31,6 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 - Deployed and scaled systems on **AWS**, enhancing reliability.  
 - Applied **Repository & Service Patterns** for maintainable architecture.  
 - Delivered client presentations & technical requirement analysis.
-
 ---
 ## 🧠 Certifications & Training
 - AWS Security Fundamentals (Second Edition)  
@@ -39,15 +38,12 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 - Career Essentials in Software Development  
 - Practical GitHub Project Management & Collaboration  
 ---
-
 ## 🛠️ Tech Stack
 **Languages:** PHP, JavaScript, SQL, Shell  
 **Frameworks:** Laravel, Lumen, React.js
 **Databases:** MySQL, Oracle  
 **DevOps Tools:** AWS, Docker, Jenkins, CI/CD  
 **Other Tools:** Postman, MySQL Workbench, PhpStorm, VS Code  
-
-
 ---
 ## 🤝 Brands I’ve Worked With
 **Analyzen**, **Padakhep**, **ShuroPay**, **bKash**, **Nagad**, **Pocket**, **Pathao Pay**,  
