@@ -1,4 +1,4 @@
-<h1> <b> <i>Hi I'm Mahmud Siddeky</i></b></h1>
+<h1> <b> <i>Hi, I'm Mahmud Siddeky</i></b></h1>
 
 🚀 **Software Engineer | PHP | Laravel | Javascript | React.js | AWS | N8N | DevOps Enthusiast**  
 📍 Dhaka, Bangladesh  
