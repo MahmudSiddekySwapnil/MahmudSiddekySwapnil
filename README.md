@@ -11,7 +11,6 @@ To obtain a challenging  role as a **Software Engineer**  where I can leverage m
 My goal  is to build **scalable, secure and high-performance systems** using **Laravel**, **React.js**, **AWS**, and **CI/CD automation**, while continuously improving in **cloud technologies** and **DevOps practices**.
 
 ---
-
 ## 💡 Areas of Expertise
 - **Backend Development:** PHP, Laravel, Lumen  
 - **Frontend Development:** React.js, Bootstrap  
@@ -19,7 +18,6 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 - **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD, Nginx, Apache  
 - **System Architecture:** Repository & Service Pattern, Microservices  
 - **Collaboration & Agile:** Jira, ClickUp, Git, Code Review, Requirement Analysis  
-
 ---
 ## 🏆 Benchmarks &  Milestones
 - Developed **Amortization Loan Management System** ensuring precise repayment schedules.  
@@ -47,7 +45,6 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 ## 🤝 Brands I’ve Worked With
 **Analyzen**, **Padakhep**, **ShuroPay**, **bKash**, **Nagad**, **Pocket**, **Pathao Pay**,  
 **DBBL**, **MTBL**, **Meghna Bank**, **Agrani Bank**,  **BD Finance**, **Islamic Wallet**, **InfoLink**  
-
 
 ---
 ## 💬 Let’s Connect  
