@@ -47,6 +47,7 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 **Analyzen**, **Padakhep**, **ShuroPay**, **bKash**, **Nagad**, **Pocket**, **Pathao Pay**,  
 **DBBL**, **MTBL**, **Meghna Bank**, **Agrani Bank**,  **BD Finance**, **Islamic Wallet**, **InfoLink**  
 
+
 ---
 ## 💬 Let’s Connect  
 If you’re interested in collaboration, backend architecture, or fintech systems-  Feel free to reach out!  
