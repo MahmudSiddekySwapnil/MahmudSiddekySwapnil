@@ -74,6 +74,8 @@ Focused on building scalable, secure, and high-performance applications using La
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=MahmudSiddekySwapnil&theme=default)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=MahmudSiddekySwapnil)
+
 
 ## 🤝 Organizations & Platforms
 
