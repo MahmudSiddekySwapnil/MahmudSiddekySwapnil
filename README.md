@@ -67,7 +67,7 @@ Focused on building scalable, secure, and high-performance applications using La
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmudSiddekySwapnil&show_icons=true,include_all_commits=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmudSiddekySwapnil&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudSiddekySwapnil&layout=compact)
 
