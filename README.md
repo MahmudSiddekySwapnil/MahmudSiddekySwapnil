@@ -1,17 +1,19 @@
-<h1> <b> <i>Hi, I'm Mahmud Siddeky</i></b></h1>
+<h1><b><i>Hi, I'm Mahmud Siddeky</i></b></h1>
 
-🚀 **Software Engineer | PHP | Laravel | Javascript | React.js | AWS | N8N | DevOps Enthusiast**  
+🚀 **Software Engineer | Backend & DevOps | Laravel | React.js | AWS | Scalable Systems**  
 📍 Dhaka, Bangladesh  
 📧 **swapnilmahmud.jobs@gmail.com**  
 🔗 [LinkedIn](https://linkedin.com/in/swapnil51) • [GitHub](https://github.com/MahmudSiddekySwapnil)
 
+---
+
+## 🧭 Career Objective
+Software Engineer with 5+ years of experience in fintech, e-commerce, and microfinance systems.
+
+Focused on building scalable, secure, and high-performance applications using Laravel, React.js, and AWS. Passionate about system architecture, performance optimization, and DevOps-driven development.
 
 ---
-## 🧭 Career  Objective
-To obtain a challenging  role as a **Software Engineer**  where I can leverage my 5+ years of experience in **fintech**, **e-commerce**, and **microfinance sectors**.  
-My goal  is to build **scalable, secure and high-performance systems** using **Laravel**, **React.js**, **AWS**, and **CI/CD automation**, while continuously improving in **cloud technologies** and **DevOps practices**.
 
----
 ## 💡 Areas of Expertise
 - **Backend Development:** PHP, Laravel, Lumen  
 - **Frontend Development:** React.js, Bootstrap  
@@ -19,34 +21,66 @@ My goal  is to build **scalable, secure and high-performance systems** using **L
 - **Cloud & DevOps:** AWS, Docker, Jenkins, CI/CD, Nginx, Apache  
 - **System Architecture:** Repository & Service Pattern, Microservices  
 - **Collaboration & Agile:** Jira, ClickUp, Git, Code Review, Requirement Analysis  
+
 ---
-## 🏆 Benchmarks &  Milestones
-- Developed **Amortization Loan Management System** ensuring precise repayment schedules.  
-- Integrated **multiple payment gateways** (bKash, Nagad, Pathao Pay, etc.) for seamless transactions.  
--  Optimized **MySQL performance** for large-scale financial systems.  
-- Containerized services using **Docker**, improving deployment flow.  
-- Automated deployments with **CI/CD (Jenkins)** to reduce downtime.  
-- Deployed and scaled systems on **AWS**, enhancing reliability.  
-- Applied **Repository & Service Patterns** for maintainable architecture.  
-- Delivered client presentations & technical requirement analysis.
+
+## 🤖 AI-Assisted Development
+
+> Leveraging AI to improve engineering productivity, system design, and development workflows
+
+- Enhance the software development lifecycle (SDLC) using AI-assisted workflows  
+- Accelerate backend development with intelligent code scaffolding and logic design  
+- Optimize queries and debug complex issues using AI-driven analysis  
+- Generate technical documentation, test cases, and system insights  
+- Explore AI integration in DevOps automation and cloud environments  
+
 ---
+
+## 🏆 Benchmarks & Milestones
+- Developed **Amortization Loan Management System** ensuring accurate and scalable repayment schedules  
+- Integrated **multiple payment gateways** (bKash, Nagad, Pathao Pay, etc.) for seamless financial transactions  
+- Optimized **MySQL performance**, improving query efficiency and system responsiveness  
+- Containerized applications using **Docker**, streamlining deployment workflows  
+- Automated deployments with **CI/CD (Jenkins)**, reducing downtime and manual errors  
+- Deployed and scaled applications on **AWS**, improving system reliability and availability  
+- Implemented **Repository & Service Patterns** for clean and maintainable architecture  
+- Conducted client requirement analysis and delivered technical solutions  
+
+---
+
 ## 🧠 Certifications & Training
 - AWS Security Fundamentals (Second Edition)  
 - Career Essentials in GitHub (Microsoft & LinkedIn)  
 - Career Essentials in Software Development  
 - Practical GitHub Project Management & Collaboration  
+
 ---
+
 ## 🛠️ Tech Stack
 **Languages:** PHP, JavaScript, SQL, Shell  
-**Frameworks:** Laravel, Lumen, React.js
+**Frameworks:** Laravel, Lumen, React.js  
 **Databases:** MySQL, Oracle  
 **DevOps Tools:** AWS, Docker, Jenkins, CI/CD  
 **Other Tools:** Postman, MySQL Workbench, PhpStorm, VS Code  
----
-## 🤝 Brands I’ve Worked With
-**Analyzen**, **Padakhep**, **ShuroPay**, **bKash**, **Nagad**, **Pocket**, **Pathao Pay**,  
-**DBBL**, **MTBL**, **Meghna Bank**, **Agrani Bank**,  **BD Finance**, **Islamic Wallet**, **InfoLink**  
 
 ---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmudSiddekySwapnil&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudSiddekySwapnil&layout=compact)
+
+---
+
+## 🤝 Organizations & Platforms
+
+Worked with fintech, banking, and payment ecosystems including:
+
+Analyzen, Padakhep, ShuroPay, bKash, Nagad, Pathao Pay,  
+DBBL, MTBL, Meghna Bank, Agrani Bank, BD Finance, Islamic Wallet, InfoLink  
+
+---
+
 ## 💬 Let’s Connect  
-If you’re interested in collaboration, backend architecture, or fintech systems-  Feel free to reach out!  
+If you're interested in collaboration, backend architecture, or fintech systems — feel free to reach out!
