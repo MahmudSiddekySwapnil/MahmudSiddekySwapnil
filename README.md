@@ -72,6 +72,8 @@ Focused on building scalable, secure, and high-performance applications using La
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudSiddekySwapnil&layout=compact)
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=MahmudSiddekySwapnil&theme=default)
+
 
 ## 🤝 Organizations & Platforms
 
