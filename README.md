@@ -7,6 +7,10 @@
 
 ---
 
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudSiddekySwapnil&theme=default)
+
+---
+
 ## 🧭 Career Objective
 Software Engineer with 5+ years of experience in fintech, e-commerce, and microfinance systems.
 
@@ -75,7 +79,7 @@ Focused on building scalable, secure, and high-performance applications using La
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=MahmudSiddekySwapnil)
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmudSiddekySwapnil&theme=default)
+
 
 
 ## 🤝 Organizations & Platforms
