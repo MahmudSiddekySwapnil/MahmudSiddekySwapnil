@@ -71,13 +71,13 @@ Focused on building scalable, secure, and high-performance applications using La
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmudSiddekySwapnil&show_icons=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=MahmudSiddekySwapnil)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MahmudSiddekySwapnil&layout=compact)
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=MahmudSiddekySwapnil)
 
 
 
@@ -95,4 +95,7 @@ DBBL, MTBL, Meghna Bank, Agrani Bank, BD Finance, Islamic Wallet, InfoLink
 
 ## 💬 Let’s Connect  
 If you're interested in collaboration, backend architecture, or fintech systems — feel free to reach out!
+
+---
+
 ![Visitors](https://komarev.com/ghpvc/?username=MahmudSiddekySwapnil)
