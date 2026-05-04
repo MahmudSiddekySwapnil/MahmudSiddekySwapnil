@@ -11,7 +11,6 @@
 
 ---
 
-
 ## 🧭 Career Objective
 Software Engineer with 5+ years of experience in fintech, e-commerce, and microfinance systems.
 
@@ -28,7 +27,6 @@ Focused on building scalable, secure, and high-performance applications using La
 - **Collaboration & Agile:** Jira, ClickUp, Git, Code Review, Requirement Analysis  
 
 ---
-
 
 ## 🤖 AI-Assisted Development
 
