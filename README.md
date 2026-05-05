@@ -26,6 +26,7 @@ Focused on building scalable, secure, and high-performance applications using La
 - **Collaboration & Agile:** Jira, ClickUp, Git, Code Review, Requirement Analysis  
 
 ---
+
 ## 🤖 AI-Assisted Development
 
 > Leveraging AI to improve engineering productivity, system design, and development workflows
