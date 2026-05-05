@@ -66,7 +66,6 @@ Focused on building scalable, secure, and high-performance applications using La
 **Other Tools:** Postman, MySQL Workbench, PhpStorm, VS Code  
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmudSiddekySwapnil)
