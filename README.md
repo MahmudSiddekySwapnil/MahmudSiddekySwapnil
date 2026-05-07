@@ -37,9 +37,7 @@ Focused on building scalable, secure, and high-performance applications using La
 - Optimize queries and debug complex issues using AI-driven analysis  
 - Generate technical documentation, test cases, and system insights  
 - Explore AI integration in DevOps automation and cloud environments  
-
 ---
-
 ## 🏆 Benchmarks & Milestones
 - Developed **Amortization Loan Management System** ensuring accurate and scalable repayment schedules  
 - Integrated **multiple payment gateways** (bKash, Nagad, Pathao Pay, etc.) for seamless financial transactions  
@@ -51,7 +49,6 @@ Focused on building scalable, secure, and high-performance applications using La
 - Conducted client requirement analysis and delivered technical solutions  
 
 ---
-
 ## 🧠 Certifications & Training
 - AWS Security Fundamentals (Second Edition)  
 - Career Essentials in GitHub (Microsoft & LinkedIn)  
