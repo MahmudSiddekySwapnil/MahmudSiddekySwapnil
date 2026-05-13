@@ -82,7 +82,6 @@ Focused on building scalable, secure, and high-performance applications using La
 
 
 
-
 ## 🤝 Organizations & Platforms
 
 Worked with fintech, banking, and payment ecosystems including:
