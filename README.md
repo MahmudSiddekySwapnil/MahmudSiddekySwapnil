@@ -49,7 +49,6 @@ Focused on building scalable, secure, and high-performance applications using La
 - Conducted client requirement analysis and delivered technical solutions  
 
 ---
-
 ## 🧠 Certifications & Training
 - AWS Security Fundamentals (Second Edition)  
 - Career Essentials in GitHub (Microsoft & LinkedIn)  
