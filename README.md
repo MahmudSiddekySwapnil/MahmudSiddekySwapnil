@@ -57,7 +57,6 @@ Focused on building scalable, secure, and high-performance applications using La
 - Practical GitHub Project Management & Collaboration  
 
 ---
-
 ## 🛠️ Tech Stack
 **Languages:** PHP, JavaScript, SQL, Shell  
 **Frameworks:** Laravel, Lumen, React.js  
