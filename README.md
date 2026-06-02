@@ -77,7 +77,6 @@ Focused on building scalable, secure, and high-performance applications using La
 ![trophy](https://github-profile-trophy.vercel.app/?username=MahmudSiddekySwapnil)
 
 ---
-
 ## 🤝 Organizations & Platforms
 
 Worked with fintech, banking, and payment ecosystems including:
