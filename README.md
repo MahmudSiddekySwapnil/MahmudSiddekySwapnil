@@ -16,7 +16,6 @@ Software Engineer with 5+ years of experience in fintech, e-commerce, and microf
 Focused on building scalable, secure, and high-performance applications using Laravel, React.js, and AWS. Passionate about system architecture, performance optimization, and DevOps-driven development.
 
 ---
-
 ## 💡 Areas of Expertise
 - **Backend Development:** PHP, Laravel, Lumen  
 - **Frontend Development:** React.js, Bootstrap  
