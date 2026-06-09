@@ -7,7 +7,6 @@
 
 ---
 
-
 ## 🧭 Career Objective
 Software Engineer with 5+ years of experience in fintech, e-commerce, and microfinance systems.
 
