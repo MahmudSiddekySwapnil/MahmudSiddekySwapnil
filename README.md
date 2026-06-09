@@ -63,7 +63,6 @@ Focused on building scalable, secure, and high-performance applications using La
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MahmudSiddekySwapnil)
 
 
-
 ---
 ## 🤝 Organizations & Platforms
 
