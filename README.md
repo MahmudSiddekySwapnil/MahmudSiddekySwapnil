@@ -6,7 +6,6 @@
 🔗 [LinkedIn](https://linkedin.com/in/swapnil51) • [GitHub](https://github.com/MahmudSiddekySwapnil)
 
 ---
-
 ## 🧭 Career Objective
 Software Engineer with 5+ years of experience in fintech, e-commerce, and microfinance systems.
 
