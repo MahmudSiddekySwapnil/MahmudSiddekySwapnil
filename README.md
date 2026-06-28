@@ -20,6 +20,7 @@ Focused on building scalable, secure, and high-performance applications using La
 - **System Architecture:** Repository & Service Pattern, Microservices  
 - **Collaboration & Agile:** Jira, ClickUp, Git, Code Review, Requirement Analysis  
 
+
 ---
 ## 🤖 AI-Assisted Development
 
