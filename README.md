@@ -31,6 +31,7 @@ Focused on building scalable, secure, and high-performance applications using La
 - Optimize queries and debug complex issues using AI-driven analysis  
 - Generate technical documentation, test cases, and system insights  
 - Explore AI integration in DevOps automation and cloud environments
+  
 ---
 
 ## 🏆 Benchmarks & Milestones
