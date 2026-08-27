@@ -43,13 +43,13 @@ Focused on building scalable, secure, and high-performance applications using La
 - Implemented **Repository & Service Patterns** for clean and maintainable architecture  
 - Conducted client requirement analysis and delivered technical solutions  
 
+
 ---
 ## 🧠 Certifications & Training
 - AWS Security Fundamentals (Second Edition)  
 - Career Essentials in GitHub (Microsoft & LinkedIn)  
 - Career Essentials in Software Development  
 - Practical GitHub Project Management & Collaboration  
-
 
 ---
 ## 🛠️ Tech Stack
