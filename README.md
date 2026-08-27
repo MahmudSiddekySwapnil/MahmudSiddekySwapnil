@@ -49,6 +49,7 @@ Focused on building scalable, secure, and high-performance applications using La
 - Career Essentials in Software Development  
 - Practical GitHub Project Management & Collaboration  
 
+
 ---
 ## 🛠️ Tech Stack
 **Languages:** PHP, JavaScript, SQL, Shell  
